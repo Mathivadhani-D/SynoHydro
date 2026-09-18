@@ -177,6 +177,21 @@ synohydro/
 - **Rising energy tariffs** multiply the cost of every hot-water leak
 - Every plant already owns the hardware (PLCs, flow/pressure meters) — SynoHydro is a **software layer, not a hardware purchase**
 - Payback period for a mid-size plant: **weeks, not years**
+- 
+- ## 🎥 SynoHydro Demonstration
+
+### 🔹 Video 1 — System Simulation
+
+This video demonstrates the working and simulation of the SynoHydro water leak detection system.
+
+▶️ **[Watch System Simulation](./Simulation.mp4)**
+
+
+### 🔹 Video 2 — Final Prototype Demonstration
+
+This video demonstrates the complete SynoHydro prototype and its key features.
+
+▶️ **[Watch Final Demo](./dashboardimplementation.mp4)**
 
 Why Now
 
